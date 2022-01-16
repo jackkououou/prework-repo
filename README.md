@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+- Had problems with the app once loading and saving was added. Turned out to be an API issue in the emulator and I moved up to API 30
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
